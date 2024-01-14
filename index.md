@@ -11,6 +11,8 @@ layout: default
 1.  Do some work
 1.  Take home some veg
 
+![Volunteering](priscilla-du-preez-JCZ2pE-Szpw-unsplash.jpg)
+
 ## New Rules
 
 * No money involved (volunteer based)
