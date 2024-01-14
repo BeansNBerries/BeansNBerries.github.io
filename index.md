@@ -1,6 +1,7 @@
 ---
 layout: default
 ---
+# Beans 'n Berries CSA
 
 # How it works
 
