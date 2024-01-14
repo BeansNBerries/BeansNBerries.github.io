@@ -1,7 +1,6 @@
 ---
 layout: default
 ---
-# Beans n' Berries CSA
 
 ## Locally grown and chemical free vegetables since 2003
 
