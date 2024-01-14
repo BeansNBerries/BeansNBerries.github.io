@@ -3,6 +3,8 @@ layout: default
 ---
 # Beans 'n Berries CSA
 
+![Vegetable Farm](zoe-schaeffer-hmoDcZnB7uw-unsplash.jpg)
+
 # How it works
 
 1.  Call ahead +18283519602
