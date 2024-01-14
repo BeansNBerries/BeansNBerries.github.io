@@ -3,6 +3,8 @@ layout: default
 ---
 # Beans 'n Berries CSA
 
+Locally grown and chemical free vegetables since 2003
+
 ![Vegetable Farm](zoe-schaeffer-hmoDcZnB7uw-unsplash.jpg)
 
 # How it works
