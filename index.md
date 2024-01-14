@@ -16,8 +16,5 @@ layout: default
 * No money involved (volunteer based)
 * No deliveries
 
-### Small image
-
-![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
 
 
