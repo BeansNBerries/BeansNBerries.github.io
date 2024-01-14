@@ -1,5 +1,6 @@
 ---
 layout: default
+title: Beans n' Berries
 ---
 
 ## Locally grown and chemical free vegetables since 2003
