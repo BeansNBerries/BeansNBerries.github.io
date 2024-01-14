@@ -10,8 +10,8 @@ layout: default
 
 ## New Rules
 
-No money involved (volunteer based)
-No deliveries
+* No money involved (volunteer based)
+* No deliveries
 
 ### Small image
 
