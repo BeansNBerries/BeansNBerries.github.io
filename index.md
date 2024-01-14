@@ -7,7 +7,7 @@ layout: default
 
 # How it works
 
-1.  Call ahead +18283519602
+1.  Call ahead (828) 351-9602
 1.  Do some work
 1.  Take home some veg
 
